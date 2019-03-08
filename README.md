@@ -1,2 +1,2 @@
 # Data-Structures
-For education purpses only.
+For educational purpses only.
